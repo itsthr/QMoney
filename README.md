@@ -10,9 +10,12 @@ QMoney is a visual stock portfolio analyzer. It helps portfolio managers make tr
 
 Please feel free to fork it and raise issues if you think that something could be done better. Happy coding!!
 
-You can connect with me here: 
+![image](https://github.com/user-attachments/assets/82a8850a-d525-45a7-827d-9d9269788e4a)
+QMoney Architecture
 
-[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo)](https://github.com/Vanshikagarg17/?igshid=k8l41dsudxvo) 
-[![Twitter Badge](http://img.shields.io/badge/-@vanshika_garg17-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vanshika_garg17)](https://twitter.com/vanshika_garg17) 
-[![Linkedin Badge](https://img.shields.io/badge/-Vanshika%20Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vanshika-garg-9297a3188/)](https://www.linkedin.com/in/vanshika-garg-9297a3188/) 
-[![Instagram Badge](https://img.shields.io/badge/vanshikaaaaa_-blue?style=social&logo=Instagram&link=https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo)](https://instagram.com/vanshikaaaaa_?igshid=k8l41dsudxvo) 
+![image](https://github.com/user-attachments/assets/01bbc1f4-428e-4765-84d9-1daa4e946d09)
+QMoney Portfolio Manager Interface
+
+
+
+
