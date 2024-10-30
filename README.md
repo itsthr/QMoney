@@ -3,8 +3,11 @@ QMoney is a visual stock portfolio analyzer. It helps portfolio managers make tr
 
 – Developed core logic for a portfolio manager module to help in analyzing stock portfolios and generating trade
   recommendations.
+
 – Refactored the codebase to add support for multiple stock quote services, enhancing flexibility and reliability.
+
 – Improved the application’s stability and performance, focusing on code optimization and design patterns.
+
 
 
 Please feel free to fork it and raise issues if you think that something could be done better. Happy coding!!
